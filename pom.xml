@@ -50,8 +50,8 @@
 
     <scm>
         <url>https://github.com/adamcin/${project.artifactId}</url>
-        <connection>scm:git://github.com/adamcin/${project.artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:adamcin/${project.artifactId}.git</developerConnection>
+        <connection>scm:git://github.com/adamcin/${project.artifactId}.git</connection>
     </scm>
 
     <issueManagement>
