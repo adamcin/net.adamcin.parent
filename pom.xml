@@ -62,7 +62,6 @@
 	<licenses>
 		<license>
             <name>Public domain (Unlicense)</name>
-			<url>http://unlicense.org</url>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
